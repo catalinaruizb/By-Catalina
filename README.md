@@ -5,7 +5,8 @@ Portafolio de **branding, marca personal, contenido y piezas visuales**.
 ![Vista previa](preview.png)
 
 ## Qué tiene
-- Texturas: pelo rosa, acero cepillado, azulejo cromado, papel y satín (`assets/tex/`).
+- Texturas reales: pana rosa y pelo de leopardo de las nieves, más acero, azulejo, papel y satín (`assets/tex/`).
+- Objetos reales recortados: canasta de alambre, pinza con tira de fotos y agenda de argollas (`assets/obj/`).
 - Animaciones: pantalla de carga, letras que aparecen, cintas en movimiento, cursor personalizado.
 - Secciones interactivas para aprender sobre marca:
   - **Una marca no es solo un logo**: las 5 capas de una marca.
@@ -14,6 +15,7 @@ Portafolio de **branding, marca personal, contenido y piezas visuales**.
 - Formulario de contacto que abre el correo con el mensaje listo.
 
 ## Para personalizar
+0. **Tus fotos en la pinza**: en la sección Sobre mí, a `.s1` y `.s2` ponles `style="background-image:url(assets/tu-foto.jpg)"`.
 1. **Tu correo**: en `index.html` busca `const CORREO =` y escribe tu correo.
 2. **Tus proyectos**: guarda las fotos en `assets/proyectos/` y en cada proyecto cambia
    `background-image:var(--t-...)` por `background-image:url(assets/proyectos/tu-foto.jpg)`.

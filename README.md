@@ -5,7 +5,7 @@ Portafolio de **branding, marca personal, contenido y piezas visuales**.
 ![Vista previa](preview.png)
 
 ## Qué tiene
-- Texturas reales: papel arrugado, papel algodón, kraft, concreto y satín (`assets/tex/`).
+- Texturas: pelo rosa, acero cepillado, azulejo cromado, papel y satín (`assets/tex/`).
 - Animaciones: pantalla de carga, letras que aparecen, cintas en movimiento, cursor personalizado.
 - Secciones interactivas para aprender sobre marca:
   - **Una marca no es solo un logo**: las 5 capas de una marca.
